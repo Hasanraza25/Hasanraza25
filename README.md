@@ -49,6 +49,9 @@ Here are some of my featured projects:
 
 ---
 
+## :trophy: GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hasanraza25)
+
 ## 📫 Connect with Me!
 
 - 💼 [LinkedIn](https://linkedin.com/in/hasanraza)
