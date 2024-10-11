@@ -1,6 +1,6 @@
 # Hi there, I'm Hasan Raza! 👋
 
-🎓 **Computer Science Student** | 💻 **Web Developer** | 🌐 **Full Stack Enthusiast**
+🎓 Eager Computer Science Explorer | 💻 Solution-Oriented Web Developer | 🌐 Full Stack Learner with a Passion for Innovation
 
 Welcome to my GitHub profile! I’m a passionate developer focused on building responsive, user-friendly web applications. I love transforming ideas into reality with clean, efficient code. Whether it’s the frontend or backend, I’m always excited to tackle new challenges and learn something new!
 
@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building r
 ## 💼 Projects
 
 Here are some of my featured projects:
-- 🏠 [**Burger House**](#) – A fully responsive restaurant website made with **Bootstrap** and **SCSS**.
-- 🎨 [**Portfolio Website**](#) – A personal portfolio showcasing my skills, built with **HTML5**, **CSS3**, and **JavaScript**.
-- 📚 [**Author Management System**](#) – An admin dashboard built in **Laravel** for managing authors and books with **AJAX**.
-- 🏪 [**E-commerce Landing Page**](#) – A landing page created with **Bootstrap** for a responsive and modern e-commerce website.
-- ✈️ [**Travel Agency Website**](#) – A **Next.js** project for a travel agency website with real-time API integration and dynamic content.
+- 🏠 [**Burger House**](https://hasanraza25.github.io/Burger-house/) – A fully responsive **restaurant website** designed with **Bootstrap** and **SCSS**, featuring modern layouts and smooth animations for an excellent user experience.
+- 🎨 [**AppLab**](https://hasanraza25.github.io/AppLab-Bootstrap/) – A **clean and professional portfolio** built with **Bootstrap** and **SCSS**, showcasing web development projects in a sleek, responsive design.
+- 📚 [**Veterinary Pet**](https://hasanraza25.github.io/Veterinary-bootstrap/) – A fully responsive **veterinary clinic website** built with **Bootstrap** and **SCSS**, designed for showcasing services and client information.
+- 🏪 [**Patrix Portfolio**](https://patrix-chi.vercel.app/) – A **portfolio** landing page built with **Bootstrap** and **SCSS**, emphasizing aesthetics and responsive design to highlight creative works.
+- ✈️ [**Sproutes**](https://sproutes.vercel.app/) – A fully responsive **travel agency website** designed with **Bootstrap** and **SCSS**, offering a visually engaging way to browse destinations and services.
 
 ---
 
@@ -54,9 +54,7 @@ Here are some of my featured projects:
 
 ## 📫 Connect with Me!
 
-- 💼 [LinkedIn](https://linkedin.com/in/hasanraza)
-- 🐦 [Twitter](https://twitter.com/hasanraza)
-- 🌍 [Portfolio Website](https://hasanraza.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasan-raza-2581h0r/)
 
 ---
 
