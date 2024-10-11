@@ -41,6 +41,8 @@ Here are some of my featured projects:
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasanraza25&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## 📈 GitHub Stats
 
 ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanraza&show_icons=true&theme=radical)
