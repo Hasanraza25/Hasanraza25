@@ -7,33 +7,33 @@ Welcome to my GitHub! I specialize in building modern, responsive, and scalable 
 ---
 
 ## 🧠 Currently Focused On
-- 🔧 Developing with **React**, **Next.js**, and **Laravel**
-- 🔌 Working deeply with **API integrations** (RESTful & custom)
-- 💼 Building scalable, full-featured applications from scratch
+- Developing with **React**, **Next.js**, and **Laravel**
+- Working deeply with **API integrations** (RESTful & custom)
+- Building scalable, full-featured applications from scratch
 
 ---
 
 ## 🛠️ Recently Built Projects
 
-- 🌐 [**My Portfolio – imhasanraza.com**](https://imhasanraza.com)  
+- [**My Portfolio – imhasanraza.com**](https://imhasanraza.com)  
   A sleek and animated personal portfolio built with **Next.js**, **GSAP**, and modern UI libraries. Fully responsive, performance-optimized, and designed to leave an impression.
   
-- 🚗 [**Car Rental Website**](https://car-rent-hackathon.vercel.app/)  
+- [**Car Rental Website**](https://car-rent-hackathon.vercel.app/)  
   A dynamic and mobile-first web app featuring booking systems, live car listings, and an admin dashboard built with **Next.js**, **Sanity**, **Tailwind CSS**, **Clerk**, **Stripe integration**, and more.
 
-- 🛒 [**E-Commerce Web App**](https://hasan-ecommerce-site.vercel.app/)  
+- [**E-Commerce Web App**](https://hasan-ecommerce-site.vercel.app/)  
   A fast and secure e-commerce platform built with **Next.js**, offering seamless UX from cart to checkout with full responsiveness.
 
-- ✍️ [**Blog Website**](https://hasanblog-nextjs.vercel.app/)  
+- [**Blog Website**](https://hasanblog-nextjs.vercel.app/)  
   A modern blog platform using **Next.js**, **Tailwind CSS**, and **Sanity CMS**. Supports full blog reading, commenting, and toggling between **dark/light modes**. Built to be clean, fast, and content-focused.
 
-- 🎨 [**AppLab**](https://hasanraza25.github.io/AppLab-Bootstrap/)  
+- [**AppLab**](https://hasanraza25.github.io/AppLab-Bootstrap/)  
   A company portfolio landing page, designed to be clean, sharp, and mobile-friendly, built using **Bootstrap** and **SCSS**.
 
-- 🐶 [**Veterinary Pet**](https://hasanraza25.github.io/Veterinary-bootstrap/)  
+- [**Veterinary Pet**](https://hasanraza25.github.io/Veterinary-bootstrap/)  
   A sleek pet clinic site with service listings, built using **Bootstrap** and **SCSS**.
 
-- ✨ [**Patrix Portfolio**](https://patrix-chi.vercel.app/)  
+- [**Patrix Portfolio**](https://patrix-chi.vercel.app/)  
   A minimal and elegant landing page to showcase portfolio work, built for speed and style.
 
 ---
