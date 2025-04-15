@@ -1,4 +1,5 @@
-# Hi there, I'm Hasan Raza! 👋
+# Hi there, I'm Hasan Raza! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 🚀 Passionate Full Stack Developer | 🧠 Creative Problem Solver | 🌐 Web Artisan Turning Ideas into Reality
 
